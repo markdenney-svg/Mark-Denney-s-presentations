@@ -16,12 +16,6 @@ Presentations should be organized in a clear folder structure:
 - Use descriptive names for files and folders
 - Include a README in each presentation folder describing its purpose and any setup instructions
 
-## Development Environment
-
-- **OS:** Windows
-- Use backslash-aware or cross-platform file paths where applicable
-- Line endings: prefer CRLF for Windows compatibility (configure Git with `core.autocrlf=true` if needed)
-
 ## Development Notes
 
 - This is a content repository primarily for presentation materials
