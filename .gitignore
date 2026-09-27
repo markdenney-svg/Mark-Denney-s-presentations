@@ -1,0 +1,7 @@
+
+# Secrets — never commit (added 27 Sep 2026)
+.env
+.env.*
+!.env.example
+*.key
+*.pem
